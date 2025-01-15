@@ -1,3 +1,3 @@
 Nuxt Larvel App
-frontend: Nuxt-tailwind CSS
-server: Laravel-10
+Frontend: Nuxt-tailwindCSS
+Server: Laravel-10
